@@ -1,0 +1,16 @@
+{
+  "name": "Trading Journal",
+  "short_name": "Trading Journal",
+  "description": "Trade kee galchi, profit fi loss torbaniin hordofi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1f3",
+  "theme_color": "#0f5c6e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
